@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 
 class RestaurantApplicationTests {
-
+//test for branch push
 	@Test
 	void contextLoads() {
 	}
